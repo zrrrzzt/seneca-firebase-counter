@@ -1,3 +1,8 @@
+# Not maintained
+
+Please go to [seneca-counter-firebase](https://github.com/zrrrzzt/seneca-counter-firebase) instead
+
+
 # seneca-firebase-counter
 Seneca counter for firebase
 
