@@ -36,7 +36,7 @@
     "seneca": "3.4.1",
     "standard": "10.0.3",
     "tap": "10.7.2",
-    "nsp": "2.8.0"
+    "nsp": "2.8.1"
   },
   "dependencies": {
     "firebase": "4.1.5"
