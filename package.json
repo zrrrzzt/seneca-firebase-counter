@@ -32,13 +32,13 @@
     "setup": "npm install && node setup.js"
   },
   "devDependencies": {
-    "coveralls": "2.13.1",
+    "coveralls": "3.0.0",
     "seneca": "3.4.3",
     "standard": "10.0.3",
     "tap": "10.7.2",
     "nsp": "2.8.0"
   },
   "dependencies": {
-    "firebase": "4.1.5"
+    "firebase": "4.9.0"
   }
 }
