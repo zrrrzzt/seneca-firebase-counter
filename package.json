@@ -32,7 +32,7 @@
     "setup": "npm install && node setup.js"
   },
   "devDependencies": {
-    "coveralls": "3.0.0",
+    "coveralls": "3.0.1",
     "seneca": "3.4.3",
     "standard": "11.0.1",
     "tap": "11.1.4",
